@@ -3,6 +3,7 @@
 //Create a variable called myName that is a string data type
 
 //Code here
+a;lkdjfa;ldfja;lfjda;lkfj 
 
 //////////////////PROBLEM 2////////////////////
 
